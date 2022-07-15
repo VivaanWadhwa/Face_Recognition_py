@@ -1,0 +1,6 @@
+This program uses the following modules:
+
+1. OpenCV
+2. face_recognition
+3. dlib
+4. imutils
